@@ -1,0 +1,4 @@
+jupyterlab
+grpcio
+grpcio-tools
+requests
